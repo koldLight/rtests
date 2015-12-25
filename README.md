@@ -12,7 +12,7 @@ library(devtools)
 
 2. Install [rtests](https://github.com/koldLight/rtests)
 ```
-install_github('rtests','koldLight')
+install_github("koldLight/rtests")
 ```
 
 # Running
