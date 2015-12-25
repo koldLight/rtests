@@ -1,0 +1,10 @@
+Package: rtests
+Title: Un paquete imprescindible si quieres escribir más a la hora de sumar dos números
+Version: 0.0.0.9000
+Authors@R: person("Luz", "Frias", email = "luzfrias@gmail.com", role = c("aut", "cre"))
+Description: Contiene una sóla función que suma dos números
+Depends:
+    R (>= 3.2.2)
+License: WTFPL
+LazyData: true
+RoxygenNote: 5.0.1.9000

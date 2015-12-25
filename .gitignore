@@ -1,5 +1,8 @@
+.Rproj.user
+
 # History files
 .Rhistory
+.RData
 .Rapp.history
 
 # Example code in package build process
