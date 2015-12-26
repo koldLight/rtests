@@ -2,7 +2,7 @@
 % Please edit documentation in R/suma.dos.numeros.R
 \name{suma.dos.numeros}
 \alias{suma.dos.numeros}
-\title{Calcula la suma de dos numeros}
+\title{suma.dos.numeros}
 \usage{
 suma.dos.numeros(x, y)
 }

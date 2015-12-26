@@ -2,7 +2,7 @@
 % Please edit documentation in R/saluda.R
 \name{saluda}
 \alias{saluda}
-\title{Dice hola a la persona pasada por parámetro}
+\title{saluda}
 \usage{
 saluda(name)
 }
