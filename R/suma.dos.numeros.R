@@ -1,5 +1,6 @@
-#' Calcula la suma de dos numeros
+#' suma.dos.numeros
 #'
+#' @description Calcula la suma de dos numeros
 #' @param x un operando
 #' @param y otro operando
 #' @return el resultado de sumar x e y

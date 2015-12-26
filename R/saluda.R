@@ -1,5 +1,6 @@
-#' Dice hola a la persona pasada por parámetro
+#' saluda
 #'
+#' @description Dice hola a la persona pasada por parámetro
 #' @param name tu nombre
 #' @return una cadena de texto con el saludo personalizado
 #' @export
