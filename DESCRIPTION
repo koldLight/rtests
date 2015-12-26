@@ -1,8 +1,8 @@
 Package: rtests
-Title: Un paquete imprescindible si quieres escribir más a la hora de sumar dos números
+Title: Un paquete imprescindible si quieres escribir más a la hora de sumar dos números, o para que tu programa R te salude
 Version: 0.0.0.9000
 Authors@R: person("Luz", "Frias", email = "luzfrias@gmail.com", role = c("aut", "cre"))
-Description: Contiene una sóla función que suma dos números
+Description: Contiene dos funciones: una de suma de números, otra que saluda
 Depends:
     R (>= 3.2.2)
 License: WTFPL

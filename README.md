@@ -18,3 +18,4 @@ install_github("koldLight/rtests")
 # Running
 
 To add two numbers, just run `suma.dos.numeros(5, 2)`
+To say hello in spanish, run `saluda("John")`
